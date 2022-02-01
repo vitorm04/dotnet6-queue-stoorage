@@ -1,4 +1,4 @@
-# Azure Storage Queue
+# Azure Queue Storage
 
 How to run?
 
